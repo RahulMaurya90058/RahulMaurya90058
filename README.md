@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-👨‍💻 **I'm Rahul Maurya** — B.Tech IT student & aspiring Full-Stack Developer.
+👨‍💻 **I'm Rahul Maurya** — Full-Stack MERN Developer focused on creating real-world, scalable and user-friendly web applications.
 
 🚀 **MERN Developer** passionate about building modern and user-friendly web applications.
 
